@@ -23,7 +23,7 @@ Tenho interesse em:
 
 ## 🚀 Projetos em destaque
 
-### 🛍️ Loja Geek Retrô
+### 🛍️ Loja Geek Retrô + IA
 
 Projeto de uma loja virtual de produtos geek com uma identidade visual inspirada nos anos 80/90.
 
@@ -32,6 +32,7 @@ Projeto de uma loja virtual de produtos geek com uma identidade visual inspirada
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 **Principais recursos:**
 
@@ -43,7 +44,7 @@ Projeto de uma loja virtual de produtos geek com uma identidade visual inspirada
 
 ---
 
-### 💳 Banco Digital para Menores
+### 💳 Banco Digital para Menores + IA
 
 Projeto conceitual de uma plataforma bancária para menores de idade, com foco em educação financeira e segurança.
 
@@ -73,12 +74,14 @@ Atualmente tenho interesse em:
 
 - Python
 - JavaScript
+- TypeScript
 
 **Desenvolvimento Web:**
 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 **Ferramentas:**
 
